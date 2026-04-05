@@ -25,17 +25,6 @@ A simple notes API. Your task is to add authentication.
 - Error handling middleware
 - Stubs for everything you'll implement
 
-## What you'll add
-
-| Lesson | Task |
-|--------|------|
-| 01 | User model |
-| 02 | Password hashing with bcrypt |
-| 03 | JWT generation |
-| 04 | Register route |
-| 05 | Login route |
-| 06 | Auth middleware |
-| 07 | Protected routes and profile endpoint |
 
 ## API
 
